@@ -67,6 +67,9 @@ The Streamlit app includes:
 - Parquet
 - Joblib
 
+## View the Project
+[Spotify Growth Platform](https://spotify-growth-retention-platform-7p2whavy7cgaye3diqgmcl.streamlit.app/)
+
 ## How to Run Locally
 
 ```bash
