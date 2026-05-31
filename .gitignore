@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+.env
+.DS_Store
+data/processed/charts_top200_clean.parquet
+data/processed/charts_viral50_clean.parquet
+data/processed/breakout_modeling_dataset.csv
+data/processed/daily_top200_region_features.parquet
+data/processed/daily_viral50_region_features.parquet
